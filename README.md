@@ -1,3 +1,5 @@
+**This is not my work**
+
 Dear developer,
 
 I wish to announce this final message to all users of my library. First of all, I want to express my gratitude to all the people who contributed to the development of this library. Unfortunately, I must inform you that it will no longer receive updates or additional content. Although I appreciate your support, I no longer find the pleasure I experienced during the creation of this open-source project.
